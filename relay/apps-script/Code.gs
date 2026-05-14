@@ -1,4 +1,4 @@
-const AUTH_KEY = "CHANGE_ME_TO_A_LONG_RANDOM_SECRET";
+const AUTH_KEY = "otherworld19961375";
 const EXIT_RELAY_URL = "https://CHANGE_ME_EXIT_RELAY_URL/relay";
 const EXIT_RELAY_KEY = "";
 
